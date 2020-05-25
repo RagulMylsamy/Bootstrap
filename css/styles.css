@@ -51,3 +51,20 @@ body {
   right: 0px;
   position: absolute;
   bottom: 0px; }
+
+#reservemodalhead {
+  background: #512DA8; }
+
+#reservemodalbody {
+  background: #D1C4E9; }
+
+.modal .modal-dialog .modal-content .modal-header {
+  color: floralwhite; }
+  .modal .modal-dialog .modal-content .modal-header button {
+    color: floralwhite; }
+
+#loginmodalhead {
+  background: #512DA8; }
+
+#loginmodalbody {
+  background: #D1C4E9; }

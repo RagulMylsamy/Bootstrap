@@ -85,3 +85,38 @@ body
   position: absolute;
   bottom: 0px;
 }
+
+#reservemodalhead
+{
+  background: $background-dark;
+}
+#reservemodalbody
+{
+  background: $background-pale;
+}
+
+.modal
+{
+  .modal-dialog
+  {
+  .modal-content
+  {
+  .modal-header
+  {
+    color: floralwhite;
+    button{
+        color: floralwhite;
+      }
+  }
+}
+}
+}
+
+#loginmodalhead
+{
+  background: $background-dark;
+}
+#loginmodalbody
+{
+  background: $background-pale;
+}
